@@ -1,0 +1,11 @@
+{
+  "task": "group",
+  "model": "aubmindlab/bert-base-arabertv02",
+  "test_accuracy": 0.8641963957337256,
+  "test_f1_macro": 0.8594906590510878,
+  "best_val_f1": 0.8478337879958016,
+  "num_classes": 5,
+  "train_samples": 89122,
+  "val_samples": 11195,
+  "test_samples": 10876
+}
